@@ -1,3 +1,5 @@
+Chart title: Odds Ratios with 95% Wald Confidence Limits
+
 # Category 1
 Text: Availability (per 10-unit increase in ADI)
 Point Value: 0.70 
